@@ -1,5 +1,5 @@
 # epsi_b2_symfony
 
-Contient l'installation symfony
+Contient le rendu symfony
 
 Kin barraud
